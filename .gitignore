@@ -1,0 +1,3 @@
+# Bicep compiled outputs (build artifacts)
+**/*.json
+!**/azuredeploy.parameters.json
